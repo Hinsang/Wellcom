@@ -1,0 +1,120 @@
+.cart_container {
+    width: 1000px;
+    height: 800px;
+    margin: 100px auto;
+}
+.cart_box {
+    display: flex;
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+}
+.cart_box2 {
+    display: flex;
+    border: 1px solid black;
+    border-top: none;
+}
+.cart_contents {
+    display: flex;
+    font-weight: bold;
+}
+.cart_img {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.cart_type {
+    width: 200px;
+    text-align: center;
+    border-left: 1px solid black;
+    padding-top: 5px;
+}
+.cart_title {
+    width: 200px;
+    text-align: center;
+    border-left: 1px solid black;
+    padding-top: 5px;
+}
+.cart_price {
+    width: 200px;
+    text-align: center;
+    border-left: 1px solid black;
+    padding-top: 5px;
+    border-right: 1px solid black;
+}
+.cart_contents2 {
+    display: flex;
+    font-weight: bold;
+}
+.cart_img2 {
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    text-align: center;
+    font-weight: bold;
+}
+.cart_type2 {
+    width: 200px;
+    text-align: center;
+    border-left: 1px solid black;
+    padding-top: 35px;
+}
+.cart_title2 {
+    width: 200px;
+    text-align: center;
+    border-left: 1px solid black;
+    padding-top: 35px;
+    color: blue;
+    font-decoration: none;
+}
+.cart_price2 {
+    width: 200px;
+    text-align: center;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding-top: 35px;
+}
+.cart_delete {
+    width: 40px;
+    height: 40px;
+    margin-top: 28px;
+    margin-left: 230px;
+}
+.cart_buy {
+    width: 120px;
+    height: 40px;
+    background-color: #eee;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+    font-size: 16px;
+    float: right;
+    cursor: pointer;
+    margin: 20px;
+    box-shadow: 1px 1px 1px 1px #aaa;
+}
+.cart_all_delete {
+    width: 120px;
+    height: 40px;
+    background-color: #eee;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+    font-size: 16px;
+    float: right;
+    cursor: pointer;
+    margin: 20px 10px 20px 0px;
+    box-shadow: 1px 1px 1px 1px #aaa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

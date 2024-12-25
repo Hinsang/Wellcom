@@ -1,0 +1,6 @@
+.Footer_container {
+    height: 200px;
+    border: red solid 1px;
+    background: #ddd;
+    position: relative;
+}

@@ -1,0 +1,12 @@
+.product_inner {
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+h3 {
+    display: block;
+    margin-bottom: 50px;
+}

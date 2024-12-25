@@ -1,0 +1,25 @@
+.upload_inner {
+    height: 700px;
+}
+.upload_container {
+    height: 550px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 2px 2px;
+}
+.upload_container p {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.upload_form {
+    margin-left: 15px;
+}
+.preview_image {
+    height: 200px;
+    width: 200px;
+    display: block;
+}
